@@ -1,4 +1,4 @@
-var chocolateBars = [
+var chocolateBars = new arrays()[
   'snickers', 'hundred grand', 'kitkat', 'skittles'
 ]
 /*
