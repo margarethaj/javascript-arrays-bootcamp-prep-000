@@ -3,7 +3,7 @@ var chocolateBars = [
 ];
 
 function addElementToBeginningOfArray(array, element){
-  var temp = array.unshift(element);
+  var temp = [element, ...array]
   return temp
 }
 /*
